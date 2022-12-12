@@ -24,7 +24,7 @@
 <ul>
   <li>👋 Hi, I’m @Nmotley92</li>
 <li> 👀 I’m interested in furthering my skills in software developement</li>
-<li> 🌱 I’m currently learning server-side APIs</li>
+<li> 🌱 I’m currently learning Node.js</li>
 <li> 💞️ I’m looking to collaborate on nothing yet</li> 
 </ul>
 
