@@ -44,6 +44,7 @@
 ---
 
 ### :fire: My Stats :
+![My Stats](https://github-readme-stats.vercel.app/api?username=Nmotley92&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nmotley92&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nmotley92)](https://github.com/anuraghazra/github-readme-stats)
 
